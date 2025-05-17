@@ -1,0 +1,16 @@
+{
+  "name": "WaterPWA",
+  "short_name": "WaterPWA",
+  "description": "A privacy-focused water tracking PWA.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48 72x72 96x96 128x128 256x256 512x512",
+      "type": "image/x-icon"
+    }
+  ]
+}
